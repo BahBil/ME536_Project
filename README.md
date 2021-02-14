@@ -1,5 +1,5 @@
 # ME536_Project
-A "machine" that plays an advanced version of rock paper scissors with the human player
+A "machine" that plays an advanced version of rock paper scissors with the human player \n
 
 my_model file: A file that contains the pre-trained neural network data for classifying new and unknown hand gestures
 objs.pkl - objs6.pkl : Vectors containing labeled hand gesture data in pairs of 30.
